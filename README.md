@@ -10,6 +10,8 @@ I hope these stories are an enjoyable read.
 In addition to this core story, there are "Personal (mostly NSFW)" and "Classified/Confidential"
 stories.  Just get in contact with me to get access to them if you are interested.
 
+"The Human Navigator" is an article about my recommended approach to using AI in software development.
+
 I will be publishing the stories of My History of Code Generation and Computer Emulators in the near future. I hope.
 
 Thank you for reading!
